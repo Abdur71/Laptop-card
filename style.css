@@ -1,0 +1,17 @@
+main{
+    max-width: 1230px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+.card-deck{
+    padding-bottom: 2%;
+}
+.card{
+    border:10px solid green;
+    margin:15px;
+    padding:10px;
+    width:280px;
+    background-color: ivory;
+    box-shadow: 0 4px 40px 0 rgba(0,0,0,0.2);
+}
